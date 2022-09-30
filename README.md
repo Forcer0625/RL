@@ -7,6 +7,6 @@
 **Gym Library開發手冊**  
 [Gymlibraryml](https://www.gymlibrary.dev/)  
 
-**2022/09/30**
-Project1: 使用Q-learning解決懸崖尋路問題
+**2022/09/30**  
+Project1: 使用Q-learning解決懸崖尋路問題  
 使用Colab環境: [code](EasyRL_Project1.ipynb)
