@@ -9,4 +9,8 @@
 
 **2022/09/30**  
 Project1: 使用Q-learning解決懸崖尋路問題  
-使用Colab環境: [code](EasyRL_Project1.ipynb)
+使用Colab環境: [code](EasyRL_Project1.ipynb)  
+
+**2022/10/14**
+PPO/TRPO/PPO-clip: 解決訓練中Learning Rate(或Step Size)多大的問題  
+[說明(影片)](https://www.youtube.com/watch?v=OAKAZhFmYoI&feature=youtu.be)
