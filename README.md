@@ -15,3 +15,7 @@ Project1: 使用Q-learning解決懸崖尋路問題
 PPO/TRPO/PPO-clip:  [說明(影片)](https://www.youtube.com/watch?v=OAKAZhFmYoI&feature=youtu.be)  
 解決訓練中Learning Rate(或Step Size)多大的問題  
 加入用來衡量兩個策略差異度的constraint(KL divergence)來避免差異過大導致訓練效果不好的問題  
+
+**2022/10/15**  
+期末專題題目: 基於RL的五子棋A.I.  
+參考資料: [連結](https://github.com/zhiyiYo/Alpha-Gobang-Zero)
