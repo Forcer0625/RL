@@ -18,4 +18,8 @@ PPO/TRPO/PPO-clip:  [說明(影片)](https://www.youtube.com/watch?v=OAKAZhFmYoI
 
 **2022/10/15**  
 期末專題題目: 基於RL的五子棋A.I.  
-參考資料: [連結](https://github.com/zhiyiYo/Alpha-Gobang-Zero)
+參考資料: [連結](https://github.com/zhiyiYo/Alpha-Gobang-Zero)  
+
+**2022/11/17**  
+Project2: 使用DQN在CartPole-v0環境中訓練  
+使用Colab環境: [code](EasyRL_Project2.ipynb)  
